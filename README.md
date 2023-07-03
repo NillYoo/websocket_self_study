@@ -6,7 +6,7 @@ From the basic concept of web sockets to advanced settings, we have compiled wha
 - 클라이언트/서버 아키텍처 이해
 - TCP/IP에 대한 기본적인 이해
 
-## 웹소켓 개념 이해
+## 웹소켓 개념 이해 [[Link]](/ws_concept/)
 - 웹소켓이 무엇인지, 왜 필요한지 이해
 - 웹소켓의 장점과 한계 이해
 - 웹소켓과 HTTP의 차이점 이해
