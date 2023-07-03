@@ -1,7 +1,7 @@
 # websocket_self_study
 From the basic concept of web sockets to advanced settings, we have compiled what we have learned by referring to online materials and documents.
 
-## 웹 기초 이해
+## 웹 기초 이해 [[Link]] (/ws_basic)
 - HTTP와 HTTPS에 대한 이해
 - 클라이언트/서버 아키텍처 이해
 - TCP/IP에 대한 기본적인 이해
