@@ -11,7 +11,7 @@ From the basic concept of web sockets to advanced settings, we have compiled wha
 - 웹소켓의 장점과 한계 이해
 - 웹소켓과 HTTP의 차이점 이해
 
-## 웹소켓 프로토콜
+## 웹소켓 프로토콜 [[Link]](/ws_protocol/)
 - 웹소켓 연결 프로세스 이해 (핸드셰이크, 연결, 데이터 전송, 연결 종료)
 - 웹소켓 프레임 구조 이해
 
